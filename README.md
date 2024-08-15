@@ -1,1 +1,1 @@
-3D Point Cloud Modelling Challenge (F. Goulette)
+## 3D Point Cloud Modelling Challenge (F. Goulette)
